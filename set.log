@@ -1,0 +1,485 @@
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnSelectBestCompatDrv============
+dispci.dll:  ============END OnSelectBestCompatDrv==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x17 and device PCI\VEN_1002&DEV_515E&SUBSYS_01E61028&REV_02\4&1FC3087&0&28F0
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnDestroyPrivateData============
+dispci.dll:  ============END OnDestroyPrivateData==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc and device PCI\VEN_1002&DEV_515E&SUBSYS_01E61028&REV_02\4&1FC3087&0&28F0
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnAllowInstall============
+dispci.dll:  DispCIIsDriverInstallAllowed: Driver package contains a feature score 0xfe
+dispci.dll:  ============END OnAllowInstall==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x18 and device PCI\VEN_1002&DEV_515E&SUBSYS_01E61028&REV_02\4&1FC3087&0&28F0
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnInstallDeviceFiles============
+dispci.dll:  ============END OnInstallDeviceFiles==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x15 and device PCI\VEN_1002&DEV_515E&SUBSYS_01E61028&REV_02\4&1FC3087&0&28F0
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x410031
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x410031
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DispCIIsDriverInstallAllowed: Driver package contains a feature score 0xfe
+dispci.dll:  ============BEGIN OnInstallDevice============
+dispci.dll:  DispCIIsDeviceCompatibleWithHighResolutionBoot: Found high resolution boot incomaptible hardware DispCIIsDeviceCompatibleWithHighResolutionBoot
+dispci.dll:  DispCISetServiceStartType: No change to the service start required
+dispci.dll:  ============END OnInstallDevice==============
+dispci.dll:  DisplayClassInstaller: Returning 0x00000000 for DIF 0x2 and device PCI\VEN_1002&DEV_515E&SUBSYS_01E61028&REV_02\4&1FC3087&0&28F0
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x410031
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnDestroyPrivateData============
+dispci.dll:  ============END OnDestroyPrivateData==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc and device PCI\VEN_1002&DEV_515E&SUBSYS_01E61028&REV_02\4&1FC3087&0&28F0
+dispci.dll:  ============END DisplayClassInstaller==============
+montr_ci.dll:  DIF_SELECTBESTCOMPATDRV
+montr_ci.dll:  Returning 0xe000020e for function 0x17 and device DISPLAY\DEFAULT_MONITOR\5&2DCF5EAB&0&12345678&06&05.
+montr_ci.dll:  DIF_DESTROYPRIVATEDATA
+montr_ci.dll:  Returning 0xe000020e for function 0xc and device DISPLAY\DEFAULT_MONITOR\5&2DCF5EAB&0&12345678&06&05.
+montr_ci.dll:  DIF_ALLOW_INSTALL
+montr_ci.dll:  Returning 0xe000020e for function 0x18 and device DISPLAY\DEFAULT_MONITOR\5&2DCF5EAB&0&12345678&06&05.
+montr_ci.dll:  DIF_INSTALLDEVICEFILES
+montr_ci.dll:  Retrieving driver details....
+montr_ci.dll:  Returning 0xe000020e for function 0x15 and device DISPLAY\DEFAULT_MONITOR\5&2DCF5EAB&0&12345678&06&05.
+montr_ci.dll:  DIF_REGISTER_COINSTALLERS
+montr_ci.dll:  Returning 0xe000020e for function 0x22 and device DISPLAY\DEFAULT_MONITOR\5&2DCF5EAB&0&12345678&06&05.
+montr_ci.dll:  DIF_INSTALLINTERFACES
+montr_ci.dll:  Returning 0xe000020e for function 0x20 and device DISPLAY\DEFAULT_MONITOR\5&2DCF5EAB&0&12345678&06&05.
+montr_ci.dll:  DIF_INSTALLDEVICE
+montr_ci.dll:  ============BEGIN OnInstallMonitorDevice============
+montr_ci.dll:  Retrieving driver details....
+montr_ci.dll:  ============END OnInstallMonitorDevice============
+montr_ci.dll:  Returning 0xe000020e for function 0x2 and device DISPLAY\DEFAULT_MONITOR\5&2DCF5EAB&0&12345678&06&05.
+montr_ci.dll:  DIF_NEWDEVICEWIZARD_FINISHINSTALL
+montr_ci.dll:  Returning 0xe000020e for function 0x1e and device DISPLAY\DEFAULT_MONITOR\5&2DCF5EAB&0&12345678&06&05.
+montr_ci.dll:  DIF_DESTROYPRIVATEDATA
+montr_ci.dll:  Returning 0xe000020e for function 0xc and device DISPLAY\DEFAULT_MONITOR\5&2DCF5EAB&0&12345678&06&05.
+Input Install: Not a PS2 device.
+Input Install: Not a PS2 device.
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0xe30001
+dispci.dll:  ============END DisplayClassInstaller==============
+montr_ci.dll:  MonitorClassInstaller: Unrecognized DIF request
+montr_ci.dll:  Returning 0xe000020e for function 0x6.
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc
+dispci.dll:  ============END DisplayClassInstaller==============
+montr_ci.dll:  DIF_DESTROYPRIVATEDATA
+montr_ci.dll:  Returning 0xe000020e for function 0xc.
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnSelectBestCompatDrv============
+dispci.dll:  ============END OnSelectBestCompatDrv==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x17 and device PCI\VEN_1002&DEV_515E&SUBSYS_01E61028&REV_02\4&2E5A831D&0&28F0
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnDestroyPrivateData============
+dispci.dll:  ============END OnDestroyPrivateData==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc and device PCI\VEN_1002&DEV_515E&SUBSYS_01E61028&REV_02\4&2E5A831D&0&28F0
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnAllowInstall============
+dispci.dll:  DispCIIsDriverInstallAllowed: Driver package contains a feature score 0xfe
+dispci.dll:  ============END OnAllowInstall==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x18 and device PCI\VEN_1002&DEV_515E&SUBSYS_01E61028&REV_02\4&2E5A831D&0&28F0
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnInstallDeviceFiles============
+dispci.dll:  ============END OnInstallDeviceFiles==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x15 and device PCI\VEN_1002&DEV_515E&SUBSYS_01E61028&REV_02\4&2E5A831D&0&28F0
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x410015
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x410015
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DispCIIsDriverInstallAllowed: Driver package contains a feature score 0xfe
+dispci.dll:  ============BEGIN OnInstallDevice============
+dispci.dll:  DispCIIsDeviceCompatibleWithHighResolutionBoot: Found high resolution boot incomaptible hardware DispCIIsDeviceCompatibleWithHighResolutionBoot
+dispci.dll:  DispCISetServiceStartType: No change to the service start required
+dispci.dll:  ============END OnInstallDevice==============
+dispci.dll:  DisplayClassInstaller: Returning 0x00000000 for DIF 0x2 and device PCI\VEN_1002&DEV_515E&SUBSYS_01E61028&REV_02\4&2E5A831D&0&28F0
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x410015
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnDestroyPrivateData============
+dispci.dll:  ============END OnDestroyPrivateData==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc and device PCI\VEN_1002&DEV_515E&SUBSYS_01E61028&REV_02\4&2E5A831D&0&28F0
+dispci.dll:  ============END DisplayClassInstaller==============
+montr_ci.dll:  DIF_SELECTBESTCOMPATDRV
+montr_ci.dll:  Returning 0xe000020e for function 0x17 and device DISPLAY\DEFAULT_MONITOR\5&2FAB8E39&0&12345678&06&05.
+montr_ci.dll:  DIF_DESTROYPRIVATEDATA
+montr_ci.dll:  Returning 0xe000020e for function 0xc and device DISPLAY\DEFAULT_MONITOR\5&2FAB8E39&0&12345678&06&05.
+montr_ci.dll:  DIF_ALLOW_INSTALL
+montr_ci.dll:  Returning 0xe000020e for function 0x18 and device DISPLAY\DEFAULT_MONITOR\5&2FAB8E39&0&12345678&06&05.
+montr_ci.dll:  DIF_INSTALLDEVICEFILES
+montr_ci.dll:  Retrieving driver details....
+montr_ci.dll:  Returning 0xe000020e for function 0x15 and device DISPLAY\DEFAULT_MONITOR\5&2FAB8E39&0&12345678&06&05.
+montr_ci.dll:  DIF_REGISTER_COINSTALLERS
+montr_ci.dll:  Returning 0xe000020e for function 0x22 and device DISPLAY\DEFAULT_MONITOR\5&2FAB8E39&0&12345678&06&05.
+montr_ci.dll:  DIF_INSTALLINTERFACES
+montr_ci.dll:  Returning 0xe000020e for function 0x20 and device DISPLAY\DEFAULT_MONITOR\5&2FAB8E39&0&12345678&06&05.
+montr_ci.dll:  DIF_INSTALLDEVICE
+montr_ci.dll:  ============BEGIN OnInstallMonitorDevice============
+montr_ci.dll:  Retrieving driver details....
+montr_ci.dll:  ============END OnInstallMonitorDevice============
+montr_ci.dll:  Returning 0xe000020e for function 0x2 and device DISPLAY\DEFAULT_MONITOR\5&2FAB8E39&0&12345678&06&05.
+montr_ci.dll:  DIF_NEWDEVICEWIZARD_FINISHINSTALL
+montr_ci.dll:  Returning 0xe000020e for function 0x1e and device DISPLAY\DEFAULT_MONITOR\5&2FAB8E39&0&12345678&06&05.
+montr_ci.dll:  DIF_DESTROYPRIVATEDATA
+montr_ci.dll:  Returning 0xe000020e for function 0xc and device DISPLAY\DEFAULT_MONITOR\5&2FAB8E39&0&12345678&06&05.
+Input Install: Not a PS2 device.
+Input Install: Not a PS2 device.
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0xa
+dispci.dll:  ============END DisplayClassInstaller==============
+montr_ci.dll:  MonitorClassInstaller: Unrecognized DIF request
+montr_ci.dll:  Returning 0xe000020e for function 0x6.
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc
+dispci.dll:  ============END DisplayClassInstaller==============
+montr_ci.dll:  DIF_DESTROYPRIVATEDATA
+montr_ci.dll:  Returning 0xe000020e for function 0xc.
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+2017-03-07 19:40:47, Info                  CBS    Starting TrustedInstaller initialization.
+2017-03-07 19:40:47, Info                  CBS    Loaded Servicing Stack v6.1.7601.17514 with Core: C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7601.17514_none_678566b7ddea04a5\cbscore.dll
+2017-03-07 19:40:47, Info                  CSI    00000001@2017/3/7:16:40:47.515 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fefb52e94d @0x7fefb9e9839 @0x7fefb9b34d3 @0xffcde97c @0xffcdd799 @0xffcddb2f)
+2017-03-07 19:40:47, Info                  CSI    00000002@2017/3/7:16:40:47.562 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fefb52e94d @0x7fefba36806 @0x7fefba02a9c @0x7fefb9b35a9 @0xffcde97c @0xffcdd799)
+2017-03-07 19:40:47, Info                  CBS    SQM: Initializing online with Windows opt-in: False
+2017-03-07 19:40:47, Info                  CBS    SQM: Cleaning up report files older than 10 days.
+2017-03-07 19:40:47, Info                  CBS    SQM: Requesting upload of all unsent reports.
+2017-03-07 19:40:47, Info                  CBS    SQM: Failed to start upload with file pattern: C:\Windows\servicing\sqm\*_std.sqm, flags: 0x2 [HRESULT = 0x80004005 - E_FAIL]
+2017-03-07 19:40:47, Info                  CBS    SQM: Failed to start standard sample upload. [HRESULT = 0x80004005 - E_FAIL]
+2017-03-07 19:40:47, Info                  CBS    SQM: Failed to start upload with file pattern: C:\Windows\servicing\sqm\*_all.sqm, flags: 0x6 [HRESULT = 0x80004005 - E_FAIL]
+2017-03-07 19:40:47, Info                  CBS    SQM: Failed to start always sample upload. [HRESULT = 0x80004005 - E_FAIL]
+2017-03-07 19:40:47, Info                  CBS    SQM: Warning: Failed to upload all unsent reports. [HRESULT = 0x80004005 - E_FAIL]
+2017-03-07 19:40:47, Info                  CSI    00000003@2017/3/7:16:40:47.593 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fefb52e94d @0x7fefaec8728 @0x7fefaec8856 @0xffcde474 @0xffcdd7de @0xffcddb2f)
+2017-03-07 19:40:47, Info                  CBS    Ending TrustedInstaller initialization.
+2017-03-07 19:40:47, Info                  CBS    Starting the TrustedInstaller main loop.
+2017-03-07 19:40:47, Info                  CBS    TrustedInstaller service starts successfully.
+2017-03-07 19:40:47, Info                  CBS    Setup in progress, aborting startup processing checks.
+2017-03-07 19:40:47, Info                  CBS    Startup processing thread terminated normally
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnSelectBestCompatDrv============
+dispci.dll:  ============END OnSelectBestCompatDrv==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x17 and device PCI\VEN_80EE&DEV_BEEF&SUBSYS_00000000&REV_00\3&267A616A&0&10
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnDestroyPrivateData============
+dispci.dll:  ============END OnDestroyPrivateData==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc and device PCI\VEN_80EE&DEV_BEEF&SUBSYS_00000000&REV_00\3&267A616A&0&10
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnAllowInstall============
+dispci.dll:  DispCIIsDriverInstallAllowed: Driver package contains a feature score 0xfe
+dispci.dll:  ============END OnAllowInstall==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x18 and device PCI\VEN_80EE&DEV_BEEF&SUBSYS_00000000&REV_00\3&267A616A&0&10
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnInstallDeviceFiles============
+dispci.dll:  ============END OnInstallDeviceFiles==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x15 and device PCI\VEN_80EE&DEV_BEEF&SUBSYS_00000000&REV_00\3&267A616A&0&10
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x410031
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x410031
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DispCIIsDriverInstallAllowed: Driver package contains a feature score 0xfe
+dispci.dll:  ============BEGIN OnInstallDevice============
+dispci.dll:  DispCISetServiceStartType: No change to the service start required
+dispci.dll:  ============END OnInstallDevice==============
+dispci.dll:  DisplayClassInstaller: Returning 0x00000000 for DIF 0x2 and device PCI\VEN_80EE&DEV_BEEF&SUBSYS_00000000&REV_00\3&267A616A&0&10
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x410031
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnDestroyPrivateData============
+dispci.dll:  ============END OnDestroyPrivateData==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc and device PCI\VEN_80EE&DEV_BEEF&SUBSYS_00000000&REV_00\3&267A616A&0&10
+dispci.dll:  ============END DisplayClassInstaller==============
+montr_ci.dll:  DIF_SELECTBESTCOMPATDRV
+montr_ci.dll:  Returning 0xe000020e for function 0x17 and device DISPLAY\DEFAULT_MONITOR\4&2ABFAA30&0&12345678&00&02.
+montr_ci.dll:  DIF_DESTROYPRIVATEDATA
+montr_ci.dll:  Returning 0xe000020e for function 0xc and device DISPLAY\DEFAULT_MONITOR\4&2ABFAA30&0&12345678&00&02.
+AudMig: Applying saved Audio settings
+AudMig: No migration information found, skipping migration 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+montr_ci.dll:  DIF_ALLOW_INSTALL
+montr_ci.dll:  Returning 0xe000020e for function 0x18 and device DISPLAY\DEFAULT_MONITOR\4&2ABFAA30&0&12345678&00&02.
+montr_ci.dll:  DIF_INSTALLDEVICEFILES
+montr_ci.dll:  Retrieving driver details....
+montr_ci.dll:  Returning 0xe000020e for function 0x15 and device DISPLAY\DEFAULT_MONITOR\4&2ABFAA30&0&12345678&00&02.
+montr_ci.dll:  DIF_REGISTER_COINSTALLERS
+montr_ci.dll:  Returning 0xe000020e for function 0x22 and device DISPLAY\DEFAULT_MONITOR\4&2ABFAA30&0&12345678&00&02.
+montr_ci.dll:  DIF_INSTALLINTERFACES
+montr_ci.dll:  Returning 0xe000020e for function 0x20 and device DISPLAY\DEFAULT_MONITOR\4&2ABFAA30&0&12345678&00&02.
+montr_ci.dll:  DIF_INSTALLDEVICE
+montr_ci.dll:  ============BEGIN OnInstallMonitorDevice============
+montr_ci.dll:  Retrieving driver details....
+montr_ci.dll:  ============END OnInstallMonitorDevice============
+AudMig: No audio endpoint migration settings found 0x2
+montr_ci.dll:  Returning 0xe000020e for function 0x2 and device DISPLAY\DEFAULT_MONITOR\4&2ABFAA30&0&12345678&00&02.
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+montr_ci.dll:  DIF_NEWDEVICEWIZARD_FINISHINSTALL
+montr_ci.dll:  Returning 0xe000020e for function 0x1e and device DISPLAY\DEFAULT_MONITOR\4&2ABFAA30&0&12345678&00&02.
+montr_ci.dll:  DIF_DESTROYPRIVATEDATA
+montr_ci.dll:  Returning 0xe000020e for function 0xc and device DISPLAY\DEFAULT_MONITOR\4&2ABFAA30&0&12345678&00&02.
+AudMig: Applying saved Audio settings
+AudMig: No migration information found, skipping migration 0x2
+AudMig: Applying saved Audio settings
+AudMig: No migration information found, skipping migration 0x2
+AudMig: Applying saved Audio settings
+AudMig: No migration information found, skipping migration 0x2
+AudMig: Applying saved Audio settings
+AudMig: No migration information found, skipping migration 0x2
+AudMig: Applying saved Audio settings
+AudMig: No migration information found, skipping migration 0x2
+AudMig: Applying saved Audio settings
+AudMig: No migration information found, skipping migration 0x2
+Input Install: Not a PS2 device.
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x260034
+dispci.dll:  ============END DisplayClassInstaller==============
+montr_ci.dll:  MonitorClassInstaller: Unrecognized DIF request
+montr_ci.dll:  Returning 0xe000020e for function 0x6.
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc
+dispci.dll:  ============END DisplayClassInstaller==============
+montr_ci.dll:  DIF_DESTROYPRIVATEDATA
+montr_ci.dll:  Returning 0xe000020e for function 0xc.
+2017-03-07 19:42:11, Info                  CBS    Trusted Installer signaled for shutdown, going to exit.
+2017-03-07 19:42:11, Info                  CBS    Ending the TrustedInstaller main loop.
+2017-03-07 19:42:11, Info                  CBS    Starting TrustedInstaller finalization.
+2017-03-07 19:42:11, Info                  CBS    Failed to unload the COMPONENTS hive. [HRESULT = 0x80070057 - E_INVALIDARG]
+2017-03-07 19:42:11, Info                  CBS    Ending TrustedInstaller finalization.
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnSelectBestCompatDrv============
+dispci.dll:  ============END OnSelectBestCompatDrv==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x17 and device PCI\VEN_1002&DEV_9900&SUBSYS_184C103C&REV_00\3&2411E6FE&2&08
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnDestroyPrivateData============
+dispci.dll:  ============END OnDestroyPrivateData==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc and device PCI\VEN_1002&DEV_9900&SUBSYS_184C103C&REV_00\3&2411E6FE&2&08
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnAllowInstall============
+dispci.dll:  DispCIIsDriverInstallAllowed: Driver package contains a feature score 0xfe
+dispci.dll:  ============END OnAllowInstall==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x18 and device PCI\VEN_1002&DEV_9900&SUBSYS_184C103C&REV_00\3&2411E6FE&2&08
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnInstallDeviceFiles============
+dispci.dll:  ============END OnInstallDeviceFiles==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x15 and device PCI\VEN_1002&DEV_9900&SUBSYS_184C103C&REV_00\3&2411E6FE&2&08
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x410031
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x410031
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DispCIIsDriverInstallAllowed: Driver package contains a feature score 0xfe
+dispci.dll:  ============BEGIN OnInstallDevice============
+dispci.dll:  DispCIIsDeviceCompatibleWithHighResolutionBoot: Found high resolution boot incomaptible hardware DispCIIsDeviceCompatibleWithHighResolutionBoot
+dispci.dll:  DispCISetServiceStartType: No change to the service start required
+dispci.dll:  ============END OnInstallDevice==============
+dispci.dll:  DisplayClassInstaller: Returning 0x00000000 for DIF 0x2 and device PCI\VEN_1002&DEV_9900&SUBSYS_184C103C&REV_00\3&2411E6FE&2&08
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x410031
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnDestroyPrivateData============
+dispci.dll:  ============END OnDestroyPrivateData==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc and device PCI\VEN_1002&DEV_9900&SUBSYS_184C103C&REV_00\3&2411E6FE&2&08
+dispci.dll:  ============END DisplayClassInstaller==============
+[05/29/2017 09:04.03.189] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[05/29/2017 09:04.03.236] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[05/29/2017 09:04.03.267] WudfCoInstaller: ImpersonationLevel set to 2
+
+[05/29/2017 09:04.03.299] WudfCoInstaller: Using "Win7" service configuration
+
+[05/29/2017 09:04.03.860] WudfCoInstaller: Service WudfSvc started successfully.
+
+[05/29/2017 09:04.03.891] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[05/29/2017 09:04.05.030] WudfCoInstaller: Created marker file C:\Windows\system32\drivers\Msft_User_WpdFs_01_09_00.Wdf.
+
+AudMig: Applying saved Audio settings
+AudMig: No migration information found, skipping migration 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: Applying saved Audio settings
+AudMig: No migration information found, skipping migration 0x2
+AudMig: Applying saved Audio settings
+AudMig: No migration information found, skipping migration 0x2
+AudMig: Applying saved Audio settings
+AudMig: No migration information found, skipping migration 0x2
+AudMig: Applying saved Audio settings
+AudMig: No migration information found, skipping migration 0x2
+AudMig: Applying saved Audio settings
+AudMig: No migration information found, skipping migration 0x2
+AudMig: Applying saved Audio settings
+AudMig: No migration information found, skipping migration 0x2
+AudMig: Applying saved Audio settings
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No migration information found, skipping migration 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+montr_ci.dll:  DIF_SELECTBESTCOMPATDRV
+montr_ci.dll:  Returning 0xe000020e for function 0x17 and device DISPLAY\LGD027A\4&26D94A36&0&12345678&00&01.
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+montr_ci.dll:  DIF_DESTROYPRIVATEDATA
+dispci.dll:  ============BEGIN OnSelectBestCompatDrv============
+montr_ci.dll:  Returning 0xe000020e for function 0xc and device DISPLAY\LGD027A\4&26D94A36&0&12345678&00&01.
+dispci.dll:  ============END OnSelectBestCompatDrv==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x17 and device PCI\VEN_1002&DEV_6840&SUBSYS_184C103C&REV_00\4&29642A77&0&0010
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnDestroyPrivateData============
+dispci.dll:  ============END OnDestroyPrivateData==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc and device PCI\VEN_1002&DEV_6840&SUBSYS_184C103C&REV_00\4&29642A77&0&0010
+dispci.dll:  ============END DisplayClassInstaller==============
+montr_ci.dll:  DIF_ALLOW_INSTALL
+montr_ci.dll:  Returning 0xe000020e for function 0x18 and device DISPLAY\LGD027A\4&26D94A36&0&12345678&00&01.
+montr_ci.dll:  DIF_INSTALLDEVICEFILES
+montr_ci.dll:  Retrieving driver details....
+montr_ci.dll:  Returning 0xe000020e for function 0x15 and device DISPLAY\LGD027A\4&26D94A36&0&12345678&00&01.
+montr_ci.dll:  DIF_REGISTER_COINSTALLERS
+montr_ci.dll:  Returning 0xe000020e for function 0x22 and device DISPLAY\LGD027A\4&26D94A36&0&12345678&00&01.
+montr_ci.dll:  DIF_INSTALLINTERFACES
+montr_ci.dll:  Returning 0xe000020e for function 0x20 and device DISPLAY\LGD027A\4&26D94A36&0&12345678&00&01.
+montr_ci.dll:  DIF_INSTALLDEVICE
+montr_ci.dll:  ============BEGIN OnInstallMonitorDevice============
+montr_ci.dll:  Retrieving driver details....
+montr_ci.dll:  ============END OnInstallMonitorDevice============
+montr_ci.dll:  Returning 0xe000020e for function 0x2 and device DISPLAY\LGD027A\4&26D94A36&0&12345678&00&01.
+montr_ci.dll:  DIF_NEWDEVICEWIZARD_FINISHINSTALL
+montr_ci.dll:  Returning 0xe000020e for function 0x1e and device DISPLAY\LGD027A\4&26D94A36&0&12345678&00&01.
+montr_ci.dll:  DIF_DESTROYPRIVATEDATA
+montr_ci.dll:  Returning 0xe000020e for function 0xc and device DISPLAY\LGD027A\4&26D94A36&0&12345678&00&01.
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnAllowInstall============
+dispci.dll:  DispCIIsDriverInstallAllowed: Driver package contains a feature score 0xfe
+dispci.dll:  ============END OnAllowInstall==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x18 and device PCI\VEN_1002&DEV_6840&SUBSYS_184C103C&REV_00\4&29642A77&0&0010
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnInstallDeviceFiles============
+dispci.dll:  ============END OnInstallDeviceFiles==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x15 and device PCI\VEN_1002&DEV_6840&SUBSYS_184C103C&REV_00\4&29642A77&0&0010
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x410015
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x410015
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DispCIIsDriverInstallAllowed: Driver package contains a feature score 0xfe
+dispci.dll:  ============BEGIN OnInstallDevice============
+dispci.dll:  DispCIIsDeviceCompatibleWithHighResolutionBoot: Found high resolution boot incomaptible hardware DispCIIsDeviceCompatibleWithHighResolutionBoot
+dispci.dll:  DispCISetServiceStartType: No change to the service start required
+dispci.dll:  ============END OnInstallDevice==============
+dispci.dll:  DisplayClassInstaller: Returning 0x00000000 for DIF 0x2 and device PCI\VEN_1002&DEV_6840&SUBSYS_184C103C&REV_00\4&29642A77&0&0010
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x410015
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnDestroyPrivateData============
+dispci.dll:  ============END OnDestroyPrivateData==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc and device PCI\VEN_1002&DEV_6840&SUBSYS_184C103C&REV_00\4&29642A77&0&0010
+dispci.dll:  ============END DisplayClassInstaller==============
+BthMig: Applying saved Bluetooth settingsBthMig: System in setup 0BthMig: No migration information found, skipping migrationdispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0xd
+dispci.dll:  ============END DisplayClassInstaller==============
+montr_ci.dll:  MonitorClassInstaller: Unrecognized DIF request
+montr_ci.dll:  Returning 0xe000020e for function 0x6.
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc
+dispci.dll:  ============END DisplayClassInstaller==============
+montr_ci.dll:  DIF_DESTROYPRIVATEDATA
+montr_ci.dll:  Returning 0xe000020e for function 0xc.
+AudMig: No audio endpoint migration settings found 0x2
+Input Install: Not a PS2 device.
+AudMig: No audio endpoint migration settings found 0x2
+[05/29/2017 09:15.39.648] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[05/29/2017 09:15.39.695] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[05/29/2017 09:15.39.742] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[05/29/2017 09:15.39.773] WudfCoInstaller: ImpersonationLevel set to 2
+
+[05/29/2017 09:15.39.804] WudfCoInstaller: Using "Win7" service configuration
+
+[05/29/2017 09:15.40.132] WudfCoInstaller: Service WudfSvc is already running.
+
+[05/29/2017 09:15.40.163] WudfCoInstaller: Final status: error(0) Операция успешно завершена.
+
+
+[05/29/2017 09:15.41.083] WudfCoInstaller: Created marker file C:\Windows\system32\drivers\Msft_User_WpdFs_01_09_00.Wdf.
+
+Input Install: Not a PS2 device.
+AudMig: Applying saved Audio settings
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No migration information found, skipping migration 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: Applying saved Audio settings
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No migration information found, skipping migration 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+WdfCoInstaller: [05/29/2017 14:54.55.890] DIF_INSTALLDEVICE: Pre-Processing
+
+WdfCoInstaller: [05/29/2017 14:54.55.894] ReadComponents:  WdfSection for Driver Service SynTP using KMDF lib version Major 0x1, minor 0x9 
+
+WdfCoInstaller: [05/29/2017 14:54.59.456] DIF_INSTALLDEVICE: Post-Processing
+
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
